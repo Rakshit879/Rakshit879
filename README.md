@@ -30,9 +30,6 @@ const rakshit = {
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Rakshit879&show_icons=true&theme=react&hide_border=false&count_private=true" width="48%" />
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=Rakshit879&theme=react" width="48%" />
-
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit879&layout=compact&theme=react" width="48%" />
 
