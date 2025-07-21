@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Rakshit Garg</h1>
+<h3 align="center">🚀 Frontend Developer | 💻 CSE @ Bennett University | 👨‍💻 Tech Enthusiast</h3>
 
-<!--
-**Rakshit879/Rakshit879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=grakshit430&label=Profile%20views&color=0e75b6&style=flat" alt="grakshit430" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+- 🎓 I'm a 4rd year Computer Science student at **Bennett University**
+
+---
+
+### 🛠️ Tech Stack
+
+```js
+Frontend     : HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js  
+Backend      : Node.js, Express.js  
+Database     : MongoDB, Mongoose  
+Tools & Tech : Git, GitHub, VS Code, Postman, REST APIs  
+Learning Now : TypeScript, Next.js, Cloud Deployment (Render / DigitalOcean)
