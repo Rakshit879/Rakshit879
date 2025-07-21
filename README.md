@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=200&section=header&text=Hi%20I'm%20Rakshit%20Garg!👋&fontSize=35&fontColor=ffffff" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1AB5F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Next.js+%2F+React+Specialist;4rd+Year+CS+Student+%7C+Specializing+in+Data+Science;Tech+Problem+Solver;Firebase+%7C+MongoDB+%7C+Node.js+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1AB5F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Next.js+%2F+React+Specialist;4th+Year+CS+Student+%7C+Specializing+in+Data+Science;Tech+Problem+Solver;Firebase+%7C+MongoDB+%7C+Node.js+Enthusiast" />
 </p>
 
 
@@ -13,7 +13,7 @@
 ```js
 const rakshit = {
   university: "Bennett University",
-  year: "4rd Year CSE",
+  year: "4th Year CSE",
   focus: ["Full Stack Development", "DSA", "CS Fundamentals"],
   tools: ["React", "Tailwind", "Node.js", "MongoDB", "Express","Next.js"],
   funFact: "I debug better with Red Bull 🪽"
